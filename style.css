@@ -18,6 +18,19 @@ a:hover {
     cursor: pointer;
 }
 
+/*--------------- ajout ----------------- */
+.services{
+    font-size: 2rem;
+    padding: 0 11rem;
+}
+
+.citation{
+    font-style: italic;
+    font-size: 2rem;
+}
+
+
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
