@@ -19,6 +19,7 @@ a:hover {
 }
 
 /*--------------- ajout ----------------- */
+
 .services{
     font-size: 2rem;
     padding: 0 11rem;
@@ -29,7 +30,7 @@ a:hover {
     font-size: 2rem;
 }
 
-
+/* ------------------- */
 
 #page-loading-blocs-notifaction {
     position: fixed;
