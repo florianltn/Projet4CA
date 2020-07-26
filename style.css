@@ -1037,6 +1037,9 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    .social{
+        flex-direction: row!important;
+    }
 }
 
 @media (max-width: 400px) {
