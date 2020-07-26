@@ -702,6 +702,28 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+    color: #333333!important;
+}
+
+h2 {
+    font-size: 22px;
+    line-height: 1.4em;
+}
+
+h3 {
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #333333!important;
+}
+
+h4 {
+    color: #333333!important;
+}
+
+.icons {
+    margin-bottom: 14px;
+    margin-top: 24px;
 }
 
 .cta-hero {
@@ -718,35 +740,10 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
-    font-size: 22px;
-    line-height: 1.4em;
-}
-
-h3 {
-    font-size: 15px;
-    text-transform: uppercase;
-    font-weight: 700;
-    color: #333333!important;
-}
-
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
     box-shadow: 0px 0px 0px #000000;
-}
-
-h1 {
-    color: #333333!important;
-}
-
-h4 {
-    color: #333333!important;
-}
-
-.icons {
-    margin-bottom: 14px;
-    margin-top: 24px;
 }
 
 .white {
