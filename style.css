@@ -20,6 +20,10 @@ a:hover {
 
 /*--------------- ajout ----------------- */
 
+q{
+    color: black;
+}
+
 .services{
     font-size: 2rem;
     padding: 0 11rem;
