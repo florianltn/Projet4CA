@@ -667,7 +667,7 @@ p,
 label,
 .btn,
 a {
-    font-family: "helvetica";
+    font-family: "helvetica", 'Arial', sans-serif;
     font-weight: 400;
     color: #575757!important;
 }
@@ -705,7 +705,7 @@ p {
 
 .h1 {
     font-size: 20px;
-    font-family: "Open Sans";
+    font-family: "Open Sans", 'Arial', sans-serif; 
     color: #333333!important;
 }
 
